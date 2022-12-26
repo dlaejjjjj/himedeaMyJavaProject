@@ -63,5 +63,7 @@ public class Main {
 //		method3(new Goods<String>());
 
 		System.out.println("dd");
+		
+		System.out.println("깃허브에 반영할 내용");
 	}
 }
