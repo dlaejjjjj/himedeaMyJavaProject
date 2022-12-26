@@ -22,7 +22,11 @@ class Goods<T> {
 	public void setT(T t) {
 		this.t = t;
 	}  
+	private void sysout() {
+		// TODO Auto-generated method stub
 
+	}
+  
 }
 
 public class Main {
@@ -58,5 +62,6 @@ public class Main {
 		method3(new Goods<D>());
 //		method3(new Goods<String>());
 
+		System.out.println("dd");
 	}
 }
